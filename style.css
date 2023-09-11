@@ -3,3 +3,54 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+#featured-property {
+  display: block;
+  width: 60%;
+  margin: auto;
+}
+
+a {
+  padding: 10px;
+  color: grey;
+}
+
+figcaption {
+  font-size: 8px;
+  text-align: center;
+}
+
+#featured-property p{
+  width: 800px;
+  margin-left: 100px;
+}
+
+#details, div{
+  float: left;
+  background-color: bisque;
+}
+
+#footer1{
+  width: 25%;
+  text-align: center;
+}
+
+#footer2{
+  width: 25%;
+  text-align: center;
+}
+
+#footer3{
+  width: 25%;
+  text-align: center;
+}
+
+#footer4{
+  width: 25%;
+  text-align: center;
+} 
+
